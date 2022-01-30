@@ -497,9 +497,7 @@
         left: 15%;
         top: 50%;
     }
-    .ly-txt01 p {
-        font-size: 4vw !important;
-    }
+    .ly-txt01 p {}
     .ly-txt02 p {
         font-size: 4vw !important;
     }
@@ -507,7 +505,7 @@
 
 .ly-stxt01 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 100px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -1296,12 +1294,12 @@
     /*文本*/
     .ly-txt11 {
         font-family: Microsoft YaHei;
-        font-size: 30px;
+        font-size: 52px;
         text-shadow: 1px;
         font-color: #000;
         position: absolute;
         left: 3%;
-        top: 4%;
+        top: 12%;
         opacity: 0;
         transition: all 0.5s;
     }
@@ -1853,7 +1851,7 @@
     /* 盒子 */
     .ly-box22 {
         width: 30%;
-        height: 30%;
+        height: 23%;
         border: 2px #CCC;
         background-color: #fff;
         background-color: rgba(255, 255, 255, 0.6);
@@ -1993,12 +1991,12 @@
 
 .ly-txt21 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 36px;
     text-shadow: 1px;
     font-color: #000;
     position: absolute;
     left: 3%;
-    top: 2%;
+    top: 8%;
     opacity: 0;
     transition: all 0.5s;
 }
@@ -2030,12 +2028,12 @@
 
 .ly-txt23 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 36px;
     text-shadow: 1px;
     font-color: #000;
     position: absolute;
     left: 3%;
-    top: 2%;
+    top: 8%;
     opacity: 0;
     transition: all 0.5s;
 }
@@ -2070,12 +2068,12 @@
 
 .ly-txt25 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 36px;
     text-shadow: 1px;
     font-color: #000;
     position: absolute;
     left: 3%;
-    top: 2%;
+    top: 6%;
     opacity: 0;
     transition: all 0.5s;
 }
@@ -2536,7 +2534,7 @@
     }
     .ly-box52 {
         width: 30%;
-        height: 40%;
+        height: 25%;
         border: 2px #CCC;
         background-color: #fff;
         background-color: rgba(255, 255, 255, 0.6);
